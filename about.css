@@ -1,0 +1,136 @@
+header {
+    height: 96px;
+    align-items: center;
+ }
+ body {
+     margin: 0;
+ }
+ .container {
+     width:1180px;
+     height: 96px;
+     margin-right: 130px;
+ }
+ .d-flex {
+     display: flex;
+ }
+ header .container {
+     align-items: center;
+ }
+ ul,li { 
+     list-style: none;
+     display: inline-block;
+     padding-left: 531px;
+ }
+ li {
+     padding: 18px;
+     
+ }
+ .logo {
+     margin-left: 130px;
+ }
+ .ford {
+    width: 1440px;
+    height: 478px;
+ }
+ .hh1 {
+    color: #19126B;
+font-family: Inter;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+ }
+ .text-p {
+    color: #090346;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+ }
+ .text {
+    width: 780px;
+    height: 188px;
+    margin-left: 130px;
+    margin-top: 120px;
+ }
+ .image-text {
+    width: 1300px;
+    height: 516px;
+    background-color: #EBEBF0;
+    margin-left: 130px;
+    margin-top: 120px;
+    
+ }
+ .text-text2 {
+    padding-left: 130px;
+    padding-top: 73px;
+    width: 519px;
+    display: inline-block;
+ }
+ .sectionfon{
+    width: 1440px;
+    height: 516px;
+    background-color: #EBEBF0;
+    margin-top: 120px;
+    margin-left: 130px;
+    padding-left: 130px;
+    
+    
+}
+.ffoto{
+    width: 566px;
+    height: 371px;
+    padding-top: 73px;
+    padding-left: 95px;
+}
+h2 {
+    padding-top: 73px;
+}
+page2 {
+    font-size: 36px;
+    color: #19126B;
+    
+}
+.textplay{
+    font-size: 20px;
+    color: #090346;
+   
+
+}
+.for-foto{
+    width: 566px;
+    height: 371px;
+    padding-top: 73px;
+    padding-left: 95px;
+}
+.menu-list-link-a {
+    color: red;
+}
+.bottom {
+    width: 1440px;
+    height: 161px;
+    background-color:#19126B;
+    text-align: center;
+   display: inline-block;
+
+    
+}
+.img-insta .img-face .img-yout {
+    padding-top:50px;
+    margin-left:130px; 
+}
+.img-soc {
+   padding-top:50px;
+   padding-left: 130px;
+}
+.text-samp {
+    color: #fff;
+    padding-left: 678px;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 400;
+    font-style: normal;
+    line-height: normal;
+    margin-top: 20px;
+    
